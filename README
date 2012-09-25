@@ -12,4 +12,4 @@ get_tcom_adsl_ip(user,passwd)
 
 that's it...
 
-Depends on requests, since i'm lazy to use urllib2
+Depends on python-requests, since i'm lazy to use urllib2
