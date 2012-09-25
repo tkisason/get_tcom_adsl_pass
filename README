@@ -1,0 +1,14 @@
+get_tcom_adsl_pass - Enter user/pass, get your router's current IP. If you don't want to run DynDNS or something similar
+Author: Tonimir Kisasondi
+
+
+usage:
+
+$ python tcomgetip.py your_username
+
+
+or, simply import tcomgetip and call:
+get_tcom_adsl_ip(user,passwd)
+
+that's it...
+
